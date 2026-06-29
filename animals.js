@@ -37,7 +37,7 @@ export const ANIMALS = [
   },
   {
     id: "elephant",
-    name: "elephant",
+    name: "Elephant",
     color: "#F4978E",
     image: require("./assets/animals/elephant.png"),
     sound: require("./assets/animals/elephant.mp3"),
